@@ -18,3 +18,5 @@ class DistanceConversion:
 
 distance = DistanceConversion(float(input("Distance: ")))
 distance.display()
+distance.__distance = 5
+distance.display()
