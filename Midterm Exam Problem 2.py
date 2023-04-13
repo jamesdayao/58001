@@ -43,6 +43,6 @@ class myWindow:
 
 window = Tk()
 mywin = myWindow(window)
-window.geometry("600x400+10+10")
+window.geometry("500x400+10+10")
 window.title("Midterm Exam Problem 2")
 window.mainloop()
